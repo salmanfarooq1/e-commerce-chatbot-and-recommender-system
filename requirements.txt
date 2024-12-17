@@ -1,4 +1,4 @@
-python==3.9.21
+
 tensorflow==2.11.0  # For using the VGG16 model and related preprocessing
 numpy==1.23.5       # For numerical operations
 opencv-python==4.8.0.76  # For image processing
