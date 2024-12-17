@@ -1,0 +1,9 @@
+tensorflow==2.11.0  # For using the VGG16 model and related preprocessing
+numpy==1.23.5       # For numerical operations
+opencv-python==4.8.0.76  # For image processing
+scikit-learn==1.2.2  # For cosine similarity
+pandas==1.5.3       # For handling CSV files
+requests==2.31.0    # For handling HTTP requests
+flask==2.2.3        # In case you use Flask-based APIs or extend functionality
+sqlite3             # Built-in Python library, no need to install separately
+jsonschema==4.19.0  # For handling JSON parsing in chatbot

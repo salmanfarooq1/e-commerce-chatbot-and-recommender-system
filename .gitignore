@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# SQLite database
+features.db
+
+# Environment settings
+.env
+*.env
+
+# Streamlit temporary files
+.streamlit/
