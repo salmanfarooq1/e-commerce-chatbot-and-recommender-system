@@ -7,3 +7,4 @@ requests==2.31.0    # For handling HTTP requests
 flask==2.2.3        # In case you use Flask-based APIs or extend functionality
 sqlite3             # Built-in Python library, no need to install separately
 jsonschema==4.19.0  # For handling JSON parsing in chatbot
+python==3.9.21
